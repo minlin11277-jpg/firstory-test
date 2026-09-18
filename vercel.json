@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/firstory_test_audio_soft_60s.mp3",
+      "headers": [
+        {"key": "Content-Type", "value": "audio/mpeg"},
+        {"key": "Cache-Control", "value": "public, max-age=3600"}
+      ]
+    }
+  ]
+}
